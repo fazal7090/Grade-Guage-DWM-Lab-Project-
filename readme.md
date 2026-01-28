@@ -28,7 +28,7 @@ It includes a complete workflow: **data loading → exploration → cleaning →
 ---
 
 ## 📁 Notebook
-### `OEL.ipynb`
+### `Grade guage.ipynb`
 This notebook contains the full pipeline:
 1. Data loading + exploration  
 2. Feature engineering (`avg_score`, `target`)  
